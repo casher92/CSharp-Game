@@ -1,0 +1,6 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.17_list_Cont\bin\Debug\0.17_list_Cont.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.17_list_Cont\bin\Debug\0.17_list_Cont.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.17_list_Cont\bin\Debug\0.17_list_Cont.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.17_list_Cont\obj\Debug\0.17_list_Cont.csprojResolveAssemblyReference.cache
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.17_list_Cont\obj\Debug\0.17_list_Cont.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.17_list_Cont\obj\Debug\0.17_list_Cont.pdb

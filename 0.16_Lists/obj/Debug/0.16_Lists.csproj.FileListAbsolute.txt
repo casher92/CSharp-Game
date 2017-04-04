@@ -1,0 +1,5 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.16_Lists\bin\Debug\0.16_Lists.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.16_Lists\bin\Debug\0.16_Lists.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.16_Lists\bin\Debug\0.16_Lists.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.16_Lists\obj\Debug\0.16_Lists.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.16_Lists\obj\Debug\0.16_Lists.pdb

@@ -1,0 +1,6 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.015_struct\bin\Debug\0.015_struct.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.015_struct\bin\Debug\0.015_struct.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.015_struct\bin\Debug\0.015_struct.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.015_struct\obj\Debug\0.015_struct.csprojResolveAssemblyReference.cache
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.015_struct\obj\Debug\0.015_struct.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.015_struct\obj\Debug\0.015_struct.pdb

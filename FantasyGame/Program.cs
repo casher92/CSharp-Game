@@ -48,6 +48,7 @@ namespace FantasyGame
                     if (player.CurrentPower <= 0)
                     {
                         Console.WriteLine("Oh you ded");
+                        break;
                     }
                 }
                 else
